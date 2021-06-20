@@ -1,0 +1,770 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    
+    <!--====== Title ======-->
+    <title>Law Firm - Lawyer and Law Firm Template</title>
+    
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+        
+    <!--====== Animate CSS ======-->
+    <link rel="stylesheet" href="assets/css/animate.css">
+        
+    <!--====== Magnific Popup CSS ======-->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        
+    <!--====== Slick CSS ======-->
+    <link rel="stylesheet" href="assets/css/slick.css">
+        
+    <!--====== Line Icons CSS ======-->
+    <link rel="stylesheet" href="assets/fonts/lineicons/font-css/LineIcons.css">
+        
+    <!--====== Bootstrap CSS ======-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    
+    <!--====== Default CSS ======-->
+    <link rel="stylesheet" href="assets/css/default.css">
+    
+    <!--====== Style CSS ======-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+</head>
+
+<body>
+    <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+    
+    
+    <!--====== HEADER PART START ======-->
+    
+    <header class="header_area">
+        <div class="header_top">
+            <div class="container">
+                <div class="header_top_content d-md-flex justify-content-between">
+                    <div class="header_info text-center">
+                        <ul>
+                            <li><i class="lni lni-mobile"></i> <a href="#"> (047) 99171-2134</a></li>
+                            <li><i class="lni lni-envelope"></i> <a href="#"> plante@gmail.com</a></li>
+                        </ul>
+                    </div> <!-- header info -->
+                    <div class="header_social d-none d-md-block">
+                        <ul>
+                            <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
+                            <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                        </ul>
+                    </div> <!-- header social -->
+                </div> <!-- header top content -->
+            </div> <!-- container -->
+        </div> <!-- header top -->
+        
+        <div class="header_navbar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="assets/images/logo_white.png" alt="Logo">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                            </button>
+
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                <ul id="nav" class="navbar-nav ml-auto">
+                                    <li class="nav-item active">
+                                        <a class="page-scroll" href="#home">Início</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="#about">Sobre</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="#practice">Serviços</a>
+                                    </li>
+                                   
+                                  
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="#contact">Contato</a>
+                                    </li>
+                                </ul>
+                            </div> <!-- navbar collapse -->
+                            
+                            <div class="navbar-btn d-none d-sm-inline-block">
+                                <a class="main-btn" data-scroll-nav="0" href="#contact">Consulta Grátis</a>
+                            </div>
+                        </nav> <!-- navbar -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- header navbar -->
+    </header>
+    
+    <!--====== HEADER PART ENDS ======-->
+    
+    <!--====== SLIDER PART START ======-->
+
+     <div id="home" class="header_slider slider-active">
+        <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url(assets/images/slider-1.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="slider_content">
+                            <h2 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">Bem vindo a Plante Soluções Ambientais</h2>
+                            <p data-animation="fadeInUp" data-delay="0.7s">Nós temos a solução ambiental que você ou sua empresa necessita.</p>
+                            <a href="#" class="main-btn" data-animation="fadeInUp" data-delay="1.1s">Get Started</a>
+                        </div> <!-- slider content -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+        
+        <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url(assets/images/slider-2.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="slider_content">
+                            <h2 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">Bem vindo a Plante Soluções Ambientais</h2>
+                            <p data-animation="fadeInUp" data-delay="0.7s"> Desde 2017 proporcionando soluções ambientais/florestais.</p>
+                            <a href="#" class="main-btn" data-animation="fadeInUp" data-delay="1.1s">Consulta Grátis</a>
+                        </div> <!-- slider content -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+        
+        <div class="single_slider bg_cover d-flex align-items-center" style="background-image: url(assets/images/slider-3.jpg)">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="slider_content">
+                            <h2 class="slider_title" data-animation="fadeInUp" data-delay="0.2s">Bem vindo a Plante Soluções Ambientais</h2>
+                            <p data-animation="fadeInUp" data-delay="0.7s">Equipe qualificada, focada em unir soluções viáveis, comprometimento nos resultados e na preservação ambiental.</p>
+                            <a href="#" class="main-btn" data-animation="fadeInUp" data-delay="1.1s">Saiba mais</a>
+                        </div> <!-- slider content -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- single slider -->
+    </div> <!-- header slider -->
+
+    <!--====== SLIDER PART ENDS ======-->
+    
+    <!--====== ABOUT PART START ======-->
+
+    <section id="about" class="about_area">
+        <div class="about_law_area pt-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="about_law_title mt-30">
+                            <h4 class="title">Sobre a Plante Soluções Ambientais</h4>
+                        </div> <!-- about law title -->
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="about_law_content mt-30">
+                            <p> A Plante Soluções Ambientais atua em consultoria ambiental e gestão de projetos desde 2017, apresentando soluções sustentáveis a todos os tipos de projetos, necessidades e empreendimentos.Temos como principal responsabilidade cumprir o que está previsto em lei, alinhado a preservação e manutenção dos recursos naturais.
+                         <a href="#" class="main-btn">Saiba mais</a>
+                        </div> <!-- about law title -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- about law area -->
+        
+        <div class="about_hire_area pt-80 pb-130">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="about_image mt-50">
+                            <img src="assets/images/about.jpg" alt="about">
+                        </div> <!-- about image -->
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about_content mt-50">
+                            <div class="section_title">
+                                <h3 class="title">Por que a Plante Soluções Ambientais?</h3>
+                                <p></p>
+                            </div> <!-- section title -->
+                            <ul class="about_list">
+                                <li class="d-flex">
+                                    <div class="about_check">
+                                        <i class="lni lni-checkmark-circle"></i>
+                                    </div>
+                                    <div class="about_list_content media-body">
+                                        <h5 class="title">Experiência em diferentes estudos e projetos</h5>
+                                        <p> Atuamos em diferentes frentes de projetos, garantindo excelência e agilidade na entrega do serviço </p>
+                                    </div>
+                                </li>
+                                <li class="d-flex">
+                                    <div class="about_check">
+                                        <i class="lni lni-checkmark-circle"></i>
+                                    </div>
+                                    <div class="about_list_content media-body">
+                                        <h5 class="title">Ética e Responsabilidade</h5>
+                                        <p> Solucionar as demandas de nossos clientes com ética e responsabilidade, proporcionando benefícios econômicos, sociais e ambientais</p>
+                                    </div>
+                                </li>
+                                <li class="d-flex">
+                                    <div class="about_check">
+                                        <i class="lni lni-checkmark-circle"></i>
+                                    </div>
+                                    <div class="about_list_content media-body">
+                                        <h5 class="title">Soluções Viáveis e Comprometimento</h5>
+                                        <p> Garantia de soluções condizentes a necessidade do cliente e tipo de empreendimento, sempre mantendo comprometimento na entrega dos resultados </p>
+                                    </div>
+                                </li>
+                                <li class="d-flex">
+                                    <div class="about_check">
+                                        <i class="lni lni-checkmark-circle"></i>
+                                    </div>
+                                    <div class="about_list_content media-body">
+                                        <h5 class="title">Atendimento Personalizado</h5>
+                                        <p> Analisamos e buscamos todas as informações necessárias para determinar a melhor forma de solucionar as dúvidas ambientais, garantindo um preço justo. </p>
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div> <!-- about content -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- about hire area -->
+    </section>
+
+    <!--====== ABOUT PART ENDS ======-->
+    
+    <!--====== PRACTICE PART START ======-->
+
+    <section id="practice" class="practice_area gray-bg pt-120 pb-130">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="section_title pb-20">
+                        <h3 class="title">Serviços</h3>
+                        <p> Pretação de serviços ambientais/florestais com alta qualidade técnica e soluções inteligentes provenientes de profissionais experientes e altamente capacitados a prestar os mais diversos tipos de serviços ambientais.</p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-briefcase"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Inventário Florestal</a></h4>
+                            <p> Levantamento qualitativo e quantitativo da floresta, afim de determinar volumetria e biodiversidade local, como subsidio para diferentes estudos e projetos ambientais.</p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-network"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Estudos Ambientais</a></h4>
+                            <p> Estudos técnicos, com equipe multidisciplinar, para obtenção de licenças ambientais, podendo ser do tipo EAS, EIA/RIMA, ECA ou RAP.</p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-grow"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Projeto de Recuperação de Área Degradada - PRAD</a></h4>
+                            <p> Projeto que visa restaurar a vegetação, para mitigar o dano causado na área e para cumprimento de compensações ambientais, regularizações ambientais, e termo de ajuste de conduta (TAC)</p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-radio-button"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Regularização Ambiental</a></h4>
+                            <p>Adequação de empreendimentos e propriedades referente as áreas protegidas por lei, como Área Verde, Reserva Legal, e Área de Preservação Permanente. </p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-trees"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Projeto de Supressão de Vegetação</a></h4>
+                            <p> Assessoria completa em projeto de corte de vegetação, bem como nos processos de compensação ambiental e de créditos de reposição florestal.</p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single_practice mt-30 d-sm-flex">
+                        <div class="practice_icon">
+                            <i class="lni lni-target"></i>
+                        </div>
+                        <div class="practice_content media-body">
+                            <h4 class="practice_title"><a href="#">Licenciamento Ambiental</a></h4>
+                            <p>Assessoria completa na parte técnica e burocrática para orientar e auxiliar na obtenção da licença ambiental do empreendimento.</p>
+                        </div>
+                    </div> <!-- single practice -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== PRACTICE PART ENDS ======-->
+    
+    <!--====== CALL TO ACTION PART START ======-->
+
+    <section class="call_action_area pt-115 pb-130 bg_cover" style="background-image: url(assets/images/call_action.jpg)">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="call_action_content text-center">
+                        <h3 class="action_title"><span>04</span> anos de experiência, garantindo excelência e transparência nos assuntos ambientais.</h3>
+                        <p></p>
+                        <a href="#" class="main-btn">Consulta Grátis</a>
+                    </div> <!-- call action content -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== CALL TO ACTION PART ENDS ======-->
+    
+    <!--====== OUR LAWYER PART START ======-->
+
+    <section id="team" class="our_lawyer_area pt-120 pb-130">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section_title text-center pb-25">
+                        <h3 class="title">Our Expert Lawyers</h3>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna </p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single_lawyer mt-30 text-center">
+                        <div class="lawyer_image">
+                            <img src="assets/images/lawyer-1.jpg" alt="lawyer">
+                            
+                            <ul class="social">
+                                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="lawyer_content">
+                            <h4 class="lawyer_name"><a href="#">Robert John</a></h4>
+                            <p>Criminal Lawyer</p>
+                        </div>
+                    </div> <!-- single lawyer -->
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single_lawyer mt-30 text-center">
+                        <div class="lawyer_image">
+                            <img src="assets/images/lawyer-2.jpg" alt="lawyer">
+                            
+                            <ul class="social">
+                                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="lawyer_content">
+                            <h4 class="lawyer_name"><a href="#">John Doe</a></h4>
+                            <p>Business Lawyer</p>
+                        </div>
+                    </div> <!-- single lawyer -->
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single_lawyer mt-30 text-center">
+                        <div class="lawyer_image">
+                            <img src="assets/images/lawyer-3.jpg" alt="lawyer">
+                            
+                            <ul class="social">
+                                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="lawyer_content">
+                            <h4 class="lawyer_name"><a href="#">Chris Dave</a></h4>
+                            <p>Finance Lawyer</p>
+                        </div>
+                    </div> <!-- single lawyer -->
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="single_lawyer mt-30 text-center">
+                        <div class="lawyer_image">
+                            <img src="assets/images/lawyer-4.jpg" alt="lawyer">
+                            
+                            <ul class="social">
+                                <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-instagram-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="lawyer_content">
+                            <h4 class="lawyer_name"><a href="#">Micheal Jordan</a></h4>
+                            <p>Family Lawyer</p>
+                        </div>
+                    </div> <!-- single lawyer -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== OUR LAWYER PART ENDS ======-->
+    
+    <!--====== TESTIMONIAL PART START ======-->
+
+    <section id="testimonial" class="testimonial_area bg_cover pt-120 pb-130" style="background-image: url(assets/images/testimonial.jpg)">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section_title section_title_2 text-center pb-30">
+                        <h3 class="title">Clientes</h3>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="testimonial_active">
+                        <div class="single_testimonial pt-30 text-center">
+                            <div class="testimonial_image">
+                                <img src="assets/images/author-1.jpg" alt="author">
+                                <div class="quota">
+                                    <i class="lni lni-quotation"></i>
+                                </div>
+                            </div>
+                            <div class="testimonial_content">
+                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna Lorem ipsum dolor sit ametc onsetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt.</p>
+                                
+                                <h5 class="author_name">Rob Hope</h5>
+                                <span>Business Owner</span>
+                            </div>
+                        </div> <!-- testimonial content -->
+                        <div class="single_testimonial pt-30 text-center">
+                            <div class="testimonial_image">
+                                <img src="assets/images/author-2.jpg" alt="author">
+                                <div class="quota">
+                                    <i class="lni lni-quotation"></i>
+                                </div>
+                            </div>
+                            <div class="testimonial_content">
+                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna Lorem ipsum dolor sit ametc onsetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt.</p>
+                                
+                                <h5 class="author_name">Sarah Doe</h5>
+                                <span>Artist</span>
+                            </div>
+                        </div> <!-- testimonial content -->
+                        <div class="single_testimonial pt-30 text-center">
+                            <div class="testimonial_image">
+                                <img src="assets/images/author-3.jpg" alt="author">
+                                <div class="quota">
+                                    <i class="lni lni-quotation"></i>
+                                </div>
+                            </div>
+                            <div class="testimonial_content">
+                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna Lorem ipsum dolor sit ametc onsetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt.</p>
+                                
+                                <h5 class="author_name">Michel Jordan</h5>
+                                <span>Scientist</span>
+                            </div>
+                        </div> <!-- testimonial content -->
+                    </div> <!-- testimonial active -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== TESTIMONIAL PART ENDS ======-->
+    
+    <!--====== BLOG PART START ======-->
+
+    <section id="blog" class="blog_area pt-120 pb-130">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="section_title text-center pb-25">
+                        <h3 class="title">From The Blog</h3>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dianonumy eirmod tempor invidunt ut labore et dolore magna </p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-7">
+                    <div class="single_blog mt-30">
+                        <div class="blg_image">
+                            <img src="assets/images/blog-1.jpg" alt="blog">
+                        </div>
+                        <div class="blg_content">
+                            <h4 class="blog_title"><a href="#">Lorem ipsum dolor sitcns etetursa pscing elitr sed diannumy.</a></h4>
+                            <p>Lorem ipsum dolor sitcons etetursa pscing elitr, sed diannumy eirmod tempor iannum eirmod tempor  invidunt.</p>
+                            <a href="#" class="more">Read More...</a>
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+                <div class="col-lg-4 col-md-7">
+                    <div class="single_blog mt-30">
+                        <div class="blg_image">
+                            <img src="assets/images/blog-2.jpg" alt="blog">
+                        </div>
+                        <div class="blg_content">
+                            <h4 class="blog_title"><a href="#">Lorem ipsum dolor sitcns etetursa pscing elitr sed diannumy.</a></h4>
+                            <p>Lorem ipsum dolor sitcons etetursa pscing elitr, sed diannumy eirmod tempor iannum eirmod tempor  invidunt.</p>
+                            <a href="#" class="more">Read More...</a>
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+                <div class="col-lg-4 col-md-7">
+                    <div class="single_blog mt-30">
+                        <div class="blg_image">
+                            <img src="assets/images/blog-3.jpg" alt="blog">
+                        </div>
+                        <div class="blg_content">
+                            <h4 class="blog_title"><a href="#">Lorem ipsum dolor sitcns etetursa pscing elitr sed diannumy.</a></h4>
+                            <p>Lorem ipsum dolor sitcons etetursa pscing elitr, sed diannumy eirmod tempor iannum eirmod tempor  invidunt.</p>
+                            <a href="#" class="more">Read More...</a>
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== BLOG PART ENDS ======-->
+    
+    <!--====== CONTACT PART START ======-->
+
+    <section id="contact" class="contact_area pt-80 pb-130 gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="contact_content mt-40">
+                        <div class="section_title pb-25">
+                            <h3 class="title">Consulta Grátis</h3>
+                            <p> Realize uma consulta grátis para entender a melhor solução para seu empreendimento e/ou propriedade.</p>
+                        </div> <!-- section title -->
+                        <div class="contact_info">
+                            <h5 class="info_title"> Ligue</h5>
+                            <p class="number"> (47) 99171-2134</p>
+                            <p> Estamos disponíveis para achar a melhor solução.</p>
+                        </div>
+                    </div> <!-- contact content -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="contact_form pt-20">
+                        <form id="contact-form" action="assets/contact.php">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="single_form">
+                                        <input name="name" type="text" placeholder="Nome">
+                                    </div> <!-- single form -->
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="single_form">
+                                        <input name="email" type="email" placeholder="Email">
+                                    </div> <!-- single form -->
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="single_form">
+                                        <input name="practice" type="text" placeholder="Descrição">
+                                    </div> <!-- single form -->
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="single_form">
+                                        <textarea id="message" placeholder="Mensagem"></textarea>
+                                    </div> <!-- single form -->
+                                </div>
+                                <p class="form-message"></p>
+                                <div class="col-md-12">
+                                    <div class="single_form text-right">
+                                        <button class="main-btn">Enviar Mensagem</button>
+                                    </div> <!-- single form -->
+                                </div>
+                            </div> <!-- row -->
+                        </form>
+                    </div> <!-- contact form -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== CONTACT PART ENDS ======-->
+    
+    <!--====== BRAND PART START ======-->
+
+    <section id="brand" class="brand_area text-center pt-100 pb-130">
+        <div class="container">
+            <div class="brand_wrapper d-flex flex-wrap align-items-center justify-content-center justify-content-lg-between">
+                <div class="single_brand">
+                    <img src="assets/images/brand-1.png" alt="brand">
+                </div> <!-- single brand -->
+                <div class="single_brand">
+                    <img src="assets/images/brand-2.png" alt="brand">
+                </div> <!-- single brand -->
+                <div class="single_brand">
+                    <img src="assets/images/brand-3.png" alt="brand">
+                </div> <!-- single brand -->
+                <div class="single_brand">
+                    <img src="assets/images/brand-4.png" alt="brand">
+                </div> <!-- single brand -->
+                <div class="single_brand">
+                    <img src="assets/images/brand-5.png" alt="brand">
+                </div> <!-- single brand -->
+            </div> <!-- brand wrapper -->
+        </div> <!-- container -->
+    </section>
+
+    <!--====== BRAND PART ENDS ======-->
+    
+    <!--====== FOOTER PART START ======-->
+
+    <footer id="footer" class="footer_area">
+        <div class="footer_subscribe pt-100 pb-65">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="subscribe_title">
+                            <h4 class="title">Subscribe Our Newsletter</h4>
+                        </div> <!-- subscribe title -->
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="subscribe_form">
+                            <form action="#">
+                                <input type="text" placeholder="hello@yourdomain.com">
+                                <button class="main-btn">Submit</button>
+                            </form>
+                        </div> <!-- subscribe title -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- container -->
+        
+        <div class="footer_widget pt-15 pb-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-7">
+                        <div class="footer_about mt-50">
+                            <a href="#">
+                                <img src="assets/images/logo.png" alt="logo">
+                            </a>
+                            <p>Lorem ipsum dolor sit ametcons etur sadipscing elitr, sed nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eirmod tempor invidunt ut labore.</p>
+                        </div> <!-- footer about -->
+                    </div>
+                    <div class="col-lg-5 col-md-7">
+                        <div class="footer_wrapper d-flex flex-wrap">
+                            <div class="footer_link mt-45">
+                                <h5 class="footer_title">Resources</h5>
+                                <ul class="link">
+                                    <li><a href="#">Terms and Conditions</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Cookie Policy</a></li>
+                                    <li><a href="#">Complaints Policy</a></li>
+                                </ul>
+                            </div> <!-- footer link -->
+                            <div class="footer_link mt-45">
+                                <h5 class="footer_title">Quick Link</h5>
+                                <ul class="link">
+                                    <li><a href="#">Labor and Employment</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Intellectual Property</a></li>
+                                    <li><a href="#">Legal IT Services</a></li>
+
+                                </ul>
+                            </div> <!-- footer link -->
+                        </div> <!-- footer wrapper -->
+                    </div>
+                    <div class="col-lg-3 col-md-5">
+                        <div class="footer_social mt-45">
+                            <h5 class="footer_title">Nos acompanhe nas redes sociais</h5>
+                            <ul class="social">
+                                <li><a href="#"><i class="lni lni-instagram"></i> Instagram </a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i> Linkedin</a></li>
+                            </ul>
+                        </div> <!-- footer social -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- footer widget -->
+        
+        <div class="footer_copyright">
+            <div class="container">
+                <div class="copyright">
+                    <p>Template Designed and Developed by <a href="https://uideck.com/" rel="nofollow">UIdeck</a></p>
+                </div> <!-- copyright -->
+            </div> <!-- container -->
+        </div> <!-- footer copyright -->
+    </footer>
+
+    <!--====== FOOTER PART ENDS ======-->
+    
+    <!--====== BACK TOP TOP PART START ======-->
+
+    <a href="#" class="back-to-top"><i class="lni lni-chevron-up"></i></a>
+
+    <!--====== BACK TOP TOP PART ENDS ======-->
+    
+    <!--====== PART START ======-->
+
+<!--
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-">
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+
+    <!--====== PART ENDS ======-->
+
+
+
+
+    <!--====== Jquery js ======-->
+    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+    
+    <!--====== Bootstrap js ======-->
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    
+    <!--====== Slick js ======-->
+    <script src="assets/js/slick.min.js"></script>
+    
+    <!--====== Scrolling Nav js ======-->
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/scrolling-nav.js"></script>
+    
+    <!--====== Ajax Contact js ======-->
+    <script src="assets/js/ajax-contact.js"></script>
+    
+    <!--====== Main js ======-->
+    <script src="assets/js/main.js"></script>
+    
+</body>
+
+</html>
