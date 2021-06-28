@@ -1101,7 +1101,31 @@ p.form-message.success, p.form-message.error {
   .contact_form .single_form textarea {
     padding-top: 15px;
     resize: none;
-    height: 150px; }
+    height: 150px;   
+  }
+
+  .contact_form_textarea {
+    height: 10em;
+    width: 15.5em;
+  }
+
+  @media only screen and (max-width: 321px) {
+    .contact_form_textarea {
+      width: 15.5em;
+    }
+  }
+
+  @media only screen and (min-width: 322px) and (max-width: 411px) {
+    .contact_form_textarea {
+      width: 18em;
+    }
+  }
+
+  @media only screen and (min-width: 412px) and (max-width: 641px) {
+    .contact_form_textarea {
+      width: 18em;
+    }
+  }
 
 /*===========================
         11.BRAND css 
