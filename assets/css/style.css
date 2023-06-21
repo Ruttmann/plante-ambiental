@@ -568,6 +568,10 @@ p {
   .slider_content .main-btn {
     margin-top: 30px; }
 
+.slick-dots {
+  display: none;
+}
+
 .slider-active .slick-dots {
   position: absolute;
   left: 50%;
@@ -1297,3 +1301,12 @@ p.form-message.success, p.form-message.error {
   .back-to-top:hover {
     color: #fff;
     background-color: #279d0a; }
+
+.horizontal-divider {
+  width: 50%;
+  margin-bottom: 80px;
+  height: 4px;
+  background-color: #279d0a;
+  margin-left: auto;
+  margin-right: auto;
+}
