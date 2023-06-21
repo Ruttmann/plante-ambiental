@@ -1037,7 +1037,7 @@ p {
 .contact_area {
   position: relative;
   z-index: 5; }
-  .contact_area::before {
+  /* .contact_area::before {
     position: absolute;
     content: '';
     background-image: url(../images/dots-2.png);
@@ -1048,7 +1048,7 @@ p {
     top: 0;
     left: 0;
     z-index: -1;
-    opacity: 0.12; }
+    opacity: 0.12; } */
 
 p.form-message.success, p.form-message.error {
   font-size: 16px;
