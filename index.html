@@ -382,7 +382,13 @@
                 <div class=" offset-lg-2 col-lg-4">
                     <div class="contact_form pt-20">
                        <link rel="stylesheet" href="https://forms.gosquared.com/forms.css" />
-                        <form id="gosquared_form" action="https://forms.gosquared.com/post/GSN-239189-X/468fb71a-804e-4533-9255-6a82d6279488" method="POST" target="_blank">
+                        <form action="https://api.web3forms.com/submit" method="POST" target="_blank">
+                          <input type="hidden" name="access_key" value="98995877-c3b3-483a-bc6e-d2904e31089b">
+                          <!-- Optional: Subject an be prefilled using type="hidden" or type="text" for normal user submitted input -->
+                          <input type="hidden" name="subject" value="Novo Contato via Website">
+                          <!-- Optional: But Recommended: To Prevent SPAM Submission. Make sure its hidden by default -->
+                          <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
                           <label>
                             <p>Nome:</p>
                             <input type="text" placeholder="Seu Nome" name="Nome" required />
@@ -395,18 +401,15 @@
                             <p>Email:</p>
                             <input type="text" placeholder="seuemail@gmail.com" name="email" required />
                           </label>
-                                                        <label>
-                            <p>Mensagem:</p>
-                            <textarea name="comment" form="gosquared_form" class="contact_form_textarea" style="border: 1px solid #ccc;" placeholder="Sua mensagem aqui."></textarea>
+                          <label>
+                          <p>Mensagem:</p>
+                          <textarea name="comment" class="contact_form_textarea" style="border: 1px solid #ccc;" placeholder="Sua mensagem aqui."></textarea>
                           </label>
                           <div>
                             <input type="submit" value="Enviar" name="submit" style="background-color:green!important;"/>
                           </div>
-
-                          <input style="position:absolute;left:-9999px" aria-hidden="true" name="gs_468fb71a-804e-4533-9255-6a82d6279488" tabindex="-1" value="" />
-                          <a href="https://forms.gosquared.com/r/GSN-239189-X" class="poweredby">Powered by <strong>GoSquared</strong></a>
                         </form>
-                        <script src="https://forms.gosquared.com/forms.js" async></script>
+                        <script src="https://web3forms.com/client/script.js" async defer></script>
                     </div> <!-- contact form -->
                 </div>
             </div> <!-- row -->
